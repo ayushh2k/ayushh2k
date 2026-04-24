@@ -2,7 +2,7 @@
 
 ### My Tech Stack:
 
-<img src="https://skillicons.dev/icons?i=go,python,js,ts,java,cpp,cs,solidity,bash,html,css,react,nextjs,nodejs,express,tailwind,bootstrap,docker,kubernetes,aws,gcp,terraform,nginx,firebase,vercel,kafka,graphql,postgres,mysql,mongodb,redis,git,linux,postman,unity,godot,arch&perline=13" alt="tech stack" />
+<img src="https://skillicons.dev/icons?i=go,rust,python,js,ts,java,cpp,cs,solidity,bash,html,css,react,nextjs,nodejs,nestjs,express,fastapi,tailwind,bootstrap,vite,docker,kubernetes,aws,gcp,terraform,nginx,firebase,vercel,kafka,graphql,rabbitmq,postgres,mysql,mongodb,redis,sqlite,git,linux,postman,tauri,unity,godot,arch&perline=13" alt="tech stack" />
 
 
 - 📫 How to reach me: **[ayushmishra042@gmail.com](mailto:ayushmishra042@gmail.com)**
